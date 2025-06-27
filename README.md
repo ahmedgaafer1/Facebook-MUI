@@ -76,11 +76,11 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 ### 🌞 Light Mode
 
-![Light Mode](/facebook1.png)
+![Light Mode](/screenshots/facebook1.png)
 
 ### 🌚 Dark Mode
 
-![Dark Mode](/facebook2.png)
+![Dark Mode](/screenshots/facebook2.png)
 
 ---
 
